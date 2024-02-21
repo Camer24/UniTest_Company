@@ -1,0 +1,4139 @@
+{
+  "Application.dll": {
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\InjectionDependency.cs": {
+      "Application.InjectionDependency": {
+        "System.Void Application.InjectionDependency::AddApplicationLayer(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Validators\\CreateCompanyValidator.cs": {
+      "Application.Validators.CreateCompanyValidator": {
+        "System.Void Application.Validators.CreateCompanyValidator::.ctor()": {
+          "Lines": {
+            "8": 8,
+            "9": 8,
+            "10": 8,
+            "11": 8,
+            "12": 8,
+            "15": 8,
+            "16": 8,
+            "17": 8,
+            "19": 8,
+            "20": 8,
+            "21": 8,
+            "23": 8,
+            "24": 8,
+            "25": 8,
+            "26": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Validators\\CreateDepartmentValidator.cs": {
+      "Application.Validators.CreateDepartmentValidator": {
+        "System.Void Application.Validators.CreateDepartmentValidator::.ctor(Application.Interfaces.IRepositories.ICompanyQuery)": {
+          "Lines": {
+            "11": 3,
+            "12": 3,
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "18": 3,
+            "20": 3,
+            "21": 3,
+            "22": 3,
+            "23": 3
+          },
+          "Branches": []
+        }
+      },
+      "Application.Validators.CreateDepartmentValidator/<ExistCompany>d__2": {
+        "System.Void Application.Validators.CreateDepartmentValidator/<ExistCompany>d__2::MoveNext()": {
+          "Lines": {
+            "26": 3,
+            "27": 3,
+            "28": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Validators\\CreateEmployeeValidator.cs": {
+      "Application.Validators.CreateEmployeeValidator": {
+        "System.Void Application.Validators.CreateEmployeeValidator::.ctor(Application.Interfaces.IRepositories.IDepartmentQuery,Application.Interfaces.IRepositories.IPositionQuery,Application.Interfaces.IRepositories.IEmployeeQuery)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "Application.Validators.CreateEmployeeValidator/<ExistDepartment>d__7": {
+        "System.Void Application.Validators.CreateEmployeeValidator/<ExistDepartment>d__7::MoveNext()": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": []
+        }
+      },
+      "Application.Validators.CreateEmployeeValidator/<ExistEmployee>d__5": {
+        "System.Void Application.Validators.CreateEmployeeValidator/<ExistEmployee>d__5::MoveNext()": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 39,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 199,
+              "EndOffset": 201,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 199,
+              "EndOffset": 232,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 237,
+              "EndOffset": 239,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 237,
+              "EndOffset": 243,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Application.Validators.CreateEmployeeValidator/<ExistPosition>d__6": {
+        "System.Void Application.Validators.CreateEmployeeValidator/<ExistPosition>d__6::MoveNext()": {
+          "Lines": {
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 169,
+              "EndOffset": 171,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 169,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Validators\\CreatePositionValidator.cs": {
+      "Application.Validators.CreatePositionValidator": {
+        "System.Void Application.Validators.CreatePositionValidator::.ctor(Application.Interfaces.IRepositories.ICompanyQuery)": {
+          "Lines": {
+            "11": 5,
+            "12": 5,
+            "13": 5,
+            "14": 5,
+            "15": 5,
+            "18": 5,
+            "19": 5,
+            "20": 5,
+            "22": 5,
+            "23": 5,
+            "24": 5,
+            "26": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "36": 5
+          },
+          "Branches": []
+        }
+      },
+      "Application.Validators.CreatePositionValidator/<ExistCompany>d__2": {
+        "System.Void Application.Validators.CreatePositionValidator/<ExistCompany>d__2::MoveNext()": {
+          "Lines": {
+            "39": 5,
+            "40": 5,
+            "41": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\UseCases\\CompanyService.cs": {
+      "Application.UseCases.CompanyService": {
+        "System.Void Application.UseCases.CompanyService::.ctor(Application.Interfaces.IRepositories.ICompanyQuery,Application.Interfaces.IRepositories.ICompanyCommand,FluentValidation.IValidator`1<Application.DTO.Request.CompanyRequest>)": {
+          "Lines": {
+            "20": 13,
+            "21": 13,
+            "22": 13,
+            "23": 13,
+            "24": 13,
+            "25": 13,
+            "26": 13
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.CompanyService/<CreateCompany>d__7": {
+        "System.Void Application.UseCases.CompanyService/<CreateCompany>d__7::MoveNext()": {
+          "Lines": {
+            "52": 10,
+            "54": 10,
+            "56": 10,
+            "57": 8,
+            "59": 2,
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 2,
+            "67": 2,
+            "68": 2
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 56,
+              "Offset": 190,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "Application.UseCases.CompanyService/<GetCompany>d__6": {
+        "System.Void Application.UseCases.CompanyService/<GetCompany>d__6::MoveNext()": {
+          "Lines": {
+            "42": 2,
+            "43": 2,
+            "45": 2,
+            "46": 1,
+            "48": 1,
+            "49": 1
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 45,
+              "Offset": 164,
+              "EndOffset": 177,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.CompanyService/<GetCompanys>d__5": {
+        "System.Void Application.UseCases.CompanyService/<GetCompanys>d__5::MoveNext()": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "33": 7,
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "38": 1,
+            "39": 1
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 247,
+              "EndOffset": 176,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 33,
+              "Offset": 247,
+              "EndOffset": 249,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\UseCases\\DepartmentService.cs": {
+      "Application.UseCases.DepartmentService": {
+        "System.Void Application.UseCases.DepartmentService::.ctor(Application.Interfaces.IRepositories.IDepartmentQuery,Application.Interfaces.IRepositories.IDepartmentCommand,FluentValidation.IValidator`1<Application.DTO.Request.DepartmentRequest>)": {
+          "Lines": {
+            "21": 13,
+            "22": 13,
+            "23": 13,
+            "24": 13,
+            "25": 13,
+            "26": 13,
+            "27": 13
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.DepartmentService/<CreateDepartment>d__7": {
+        "System.Void Application.UseCases.DepartmentService/<CreateDepartment>d__7::MoveNext()": {
+          "Lines": {
+            "57": 4,
+            "58": 4,
+            "60": 4,
+            "61": 3,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "69": 1,
+            "70": 1
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 60,
+              "Offset": 190,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.DepartmentService/<DeleteDepartment>d__8": {
+        "System.Void Application.UseCases.DepartmentService/<DeleteDepartment>d__8::MoveNext()": {
+          "Lines": {
+            "73": 3,
+            "74": 3,
+            "75": 1,
+            "77": 2,
+            "79": 2,
+            "80": 1,
+            "82": 1,
+            "83": 1
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 74,
+              "Offset": 37,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 79,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 79,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.DepartmentService/<GetDepartment>d__6": {
+        "System.Void Application.UseCases.DepartmentService/<GetDepartment>d__6::MoveNext()": {
+          "Lines": {
+            "44": 3,
+            "45": 3,
+            "46": 1,
+            "48": 2,
+            "50": 2,
+            "51": 1,
+            "53": 1,
+            "54": 1
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 45,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 50,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 50,
+              "Offset": 189,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.DepartmentService/<GetDepartmentsByCompany>d__5": {
+        "System.Void Application.UseCases.DepartmentService/<GetDepartmentsByCompany>d__5::MoveNext()": {
+          "Lines": {
+            "30": 3,
+            "31": 3,
+            "32": 3,
+            "33": 1,
+            "34": 2,
+            "36": 10,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "40": 2,
+            "41": 2
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 32,
+              "Offset": 37,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 36,
+              "Offset": 278,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 36,
+              "Offset": 278,
+              "EndOffset": 280,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\UseCases\\EmployeeService.cs": {
+      "Application.UseCases.EmployeeService": {
+        "System.Void Application.UseCases.EmployeeService::.ctor(Application.Interfaces.IRepositories.IEmployeeCommand,Application.Interfaces.IRepositories.IEmployeeQuery,Application.Interfaces.IServices.IPositionService,FluentValidation.IValidator`1<Application.DTO.Request.EmployeeRequest>)": {
+          "Lines": {
+            "21": 35,
+            "22": 35,
+            "23": 35,
+            "24": 35,
+            "25": 35,
+            "26": 35,
+            "27": 35,
+            "28": 35
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.EmployeeService/<>c__DisplayClass7_0": {
+        "System.Boolean Application.UseCases.EmployeeService/<>c__DisplayClass7_0::<GetSuperiors>b__0(Domain.Entities.Employee)": {
+          "Lines": {
+            "57": 3
+          },
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 57,
+              "Offset": 6,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<CreateEmployee>d__9": {
+        "System.Void Application.UseCases.EmployeeService/<CreateEmployee>d__9::MoveNext()": {
+          "Lines": {
+            "82": 3,
+            "84": 3,
+            "86": 3,
+            "87": 1,
+            "91": 2,
+            "92": 2,
+            "93": 2,
+            "94": 2,
+            "95": 2,
+            "96": 2,
+            "97": 2,
+            "98": 2,
+            "99": 2,
+            "100": 2,
+            "102": 2,
+            "103": 2
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 190,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<DeleteEmployee>d__13": {
+        "System.Void Application.UseCases.EmployeeService/<DeleteEmployee>d__13::MoveNext()": {
+          "Lines": {
+            "158": 3,
+            "159": 3,
+            "160": 1,
+            "162": 2,
+            "164": 2,
+            "165": 1,
+            "167": 1,
+            "168": 1
+          },
+          "Branches": [
+            {
+              "Line": 159,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 159,
+              "Offset": 37,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 164,
+              "Offset": 205,
+              "EndOffset": 207,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 164,
+              "Offset": 205,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<DisableApprovalsFlag>d__17": {
+        "System.Void Application.UseCases.EmployeeService/<DisableApprovalsFlag>d__17::MoveNext()": {
+          "Lines": {
+            "210": 3,
+            "211": 3,
+            "212": 1,
+            "214": 2,
+            "216": 2,
+            "217": 1,
+            "219": 1,
+            "220": 1
+          },
+          "Branches": [
+            {
+              "Line": 211,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 211,
+              "Offset": 37,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 216,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 216,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<DisableHistoryFlag>d__15": {
+        "System.Void Application.UseCases.EmployeeService/<DisableHistoryFlag>d__15::MoveNext()": {
+          "Lines": {
+            "184": 3,
+            "185": 3,
+            "186": 1,
+            "188": 2,
+            "190": 2,
+            "191": 1,
+            "193": 1,
+            "194": 1
+          },
+          "Branches": [
+            {
+              "Line": 185,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 185,
+              "Offset": 37,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 190,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 190,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<EnableApprovalsFlagFlag>d__16": {
+        "System.Void Application.UseCases.EmployeeService/<EnableApprovalsFlagFlag>d__16::MoveNext()": {
+          "Lines": {
+            "197": 3,
+            "198": 3,
+            "199": 1,
+            "201": 2,
+            "203": 2,
+            "204": 1,
+            "206": 1,
+            "207": 1
+          },
+          "Branches": [
+            {
+              "Line": 198,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 198,
+              "Offset": 37,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 203,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 203,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<EnableHistoryFlag>d__14": {
+        "System.Void Application.UseCases.EmployeeService/<EnableHistoryFlag>d__14::MoveNext()": {
+          "Lines": {
+            "171": 3,
+            "172": 3,
+            "173": 1,
+            "175": 2,
+            "177": 2,
+            "178": 1,
+            "180": 1,
+            "181": 1
+          },
+          "Branches": [
+            {
+              "Line": 172,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 172,
+              "Offset": 37,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 177,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 177,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetApprover>d__12": {
+        "System.Void Application.UseCases.EmployeeService/<GetApprover>d__12::MoveNext()": {
+          "Lines": {
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "149": 0,
+            "151": 0,
+            "152": 0,
+            "154": 0,
+            "155": 0
+          },
+          "Branches": [
+            {
+              "Line": 146,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 146,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 194,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 154,
+              "Offset": 227,
+              "EndOffset": 229,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 154,
+              "Offset": 227,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetEmployee>d__8": {
+        "System.Void Application.UseCases.EmployeeService/<GetEmployee>d__8::MoveNext()": {
+          "Lines": {
+            "69": 3,
+            "70": 3,
+            "71": 1,
+            "73": 2,
+            "75": 2,
+            "76": 1,
+            "78": 1,
+            "79": 1
+          },
+          "Branches": [
+            {
+              "Line": 70,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 70,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 75,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 75,
+              "Offset": 194,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetEmployeeDepartment>d__10": {
+        "System.Void Application.UseCases.EmployeeService/<GetEmployeeDepartment>d__10::MoveNext()": {
+          "Lines": {
+            "106": 3,
+            "107": 3,
+            "108": 1,
+            "110": 2,
+            "112": 2,
+            "113": 1,
+            "115": 1,
+            "116": 1,
+            "117": 1,
+            "118": 1,
+            "119": 1,
+            "121": 1,
+            "122": 1
+          },
+          "Branches": [
+            {
+              "Line": 107,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 112,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 112,
+              "Offset": 189,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetEmployees>d__6": {
+        "System.Void Application.UseCases.EmployeeService/<GetEmployees>d__6::MoveNext()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 247,
+              "EndOffset": 176,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 247,
+              "EndOffset": 249,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetNextApprover>d__11": {
+        "System.Void Application.UseCases.EmployeeService/<GetNextApprover>d__11::MoveNext()": {
+          "Lines": {
+            "126": 6,
+            "127": 6,
+            "128": 1,
+            "130": 5,
+            "131": 1,
+            "133": 4,
+            "135": 4,
+            "136": 1,
+            "138": 3,
+            "139": 1,
+            "141": 2,
+            "142": 3
+          },
+          "Branches": [
+            {
+              "Line": 127,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 127,
+              "Offset": 29,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 130,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 130,
+              "Offset": 53,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 135,
+              "Offset": 224,
+              "EndOffset": 226,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 135,
+              "Offset": 224,
+              "EndOffset": 237,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 138,
+              "Offset": 273,
+              "EndOffset": 275,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 138,
+              "Offset": 273,
+              "EndOffset": 279,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 141,
+              "Offset": 299,
+              "EndOffset": 301,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 141,
+              "Offset": 299,
+              "EndOffset": 314,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.EmployeeService/<GetSuperiors>d__7": {
+        "System.Void Application.UseCases.EmployeeService/<GetSuperiors>d__7::MoveNext()": {
+          "Lines": {
+            "45": 5,
+            "46": 5,
+            "47": 1,
+            "49": 4,
+            "50": 1,
+            "52": 3,
+            "53": 3,
+            "54": 1,
+            "56": 2,
+            "59": 2,
+            "60": 8,
+            "61": 1,
+            "62": 1,
+            "63": 1,
+            "65": 2,
+            "66": 2
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 46,
+              "Offset": 51,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 49,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 49,
+              "Offset": 75,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 53,
+              "Offset": 251,
+              "EndOffset": 253,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 53,
+              "Offset": 251,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 60,
+              "Offset": 545,
+              "EndOffset": 474,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 545,
+              "EndOffset": 547,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\UseCases\\PositionService.cs": {
+      "Application.UseCases.PositionService": {
+        "System.Void Application.UseCases.PositionService::.ctor(Application.Interfaces.IRepositories.IPositionQuery,Application.Interfaces.IRepositories.IPositionCommand,FluentValidation.IValidator`1<Application.DTO.Request.PositionRequest>)": {
+          "Lines": {
+            "21": 19,
+            "22": 19,
+            "23": 19,
+            "24": 19,
+            "25": 19,
+            "26": 19,
+            "27": 19
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.PositionService/<>c": {
+        "Application.DTO.Response.PositionResponse Application.UseCases.PositionService/<>c::<GetPositionsByCompany>b__5_0(Domain.Entities.Position)": {
+          "Lines": {
+            "36": 3,
+            "37": 3,
+            "38": 3,
+            "39": 3,
+            "40": 3,
+            "41": 3,
+            "42": 3
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.PositionService/<CreatePosition>d__8": {
+        "System.Void Application.UseCases.PositionService/<CreatePosition>d__8::MoveNext()": {
+          "Lines": {
+            "67": 7,
+            "68": 7,
+            "70": 7,
+            "71": 5,
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "76": 2,
+            "77": 2,
+            "78": 2,
+            "79": 2,
+            "81": 2,
+            "82": 2
+          },
+          "Branches": [
+            {
+              "Line": 70,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 70,
+              "Offset": 190,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "Application.UseCases.PositionService/<DeletePosition>d__9": {
+        "System.Void Application.UseCases.PositionService/<DeletePosition>d__9::MoveNext()": {
+          "Lines": {
+            "85": 3,
+            "86": 3,
+            "87": 1,
+            "88": 2,
+            "90": 2,
+            "91": 1,
+            "93": 1,
+            "94": 1
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 37,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 90,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 90,
+              "Offset": 200,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Application.UseCases.PositionService/<GetPosition>d__7": {
+        "System.Void Application.UseCases.PositionService/<GetPosition>d__7::MoveNext()": {
+          "Lines": {
+            "60": 3,
+            "61": 3,
+            "63": 1,
+            "64": 1
+          },
+          "Branches": []
+        }
+      },
+      "Application.UseCases.PositionService/<GetPositionEntity>d__6": {
+        "System.Void Application.UseCases.PositionService/<GetPositionEntity>d__6::MoveNext()": {
+          "Lines": {
+            "48": 6,
+            "49": 6,
+            "50": 2,
+            "51": 4,
+            "53": 4,
+            "54": 2,
+            "56": 2,
+            "57": 2
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 49,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 53,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 53,
+              "Offset": 189,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "Application.UseCases.PositionService/<GetPositionsByCompany>d__5": {
+        "System.Void Application.UseCases.PositionService/<GetPositionsByCompany>d__5::MoveNext()": {
+          "Lines": {
+            "30": 3,
+            "31": 3,
+            "32": 1,
+            "34": 2,
+            "44": 2,
+            "45": 2
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 31,
+              "Offset": 26,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Exceptions\\BadRequestException.cs": {
+      "Application.Exceptions.BadRequestException": {
+        "System.Collections.Generic.IDictionary`2<System.String,System.String[]> Application.Exceptions.BadRequestException::get_ValidationErrors()": {
+          "Lines": {
+            "9": 17
+          },
+          "Branches": []
+        },
+        "System.Void Application.Exceptions.BadRequestException::.ctor(System.String)": {
+          "Lines": {
+            "7": 42
+          },
+          "Branches": []
+        },
+        "System.Void Application.Exceptions.BadRequestException::.ctor(System.String,FluentValidation.Results.ValidationResult)": {
+          "Lines": {
+            "11": 17,
+            "12": 17,
+            "13": 17,
+            "14": 17
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Exceptions\\EmployeeIdFormatException.cs": {
+      "Application.Exceptions.EmployeeIdFormatException": {
+        "System.Void Application.Exceptions.EmployeeIdFormatException::.ctor()": {
+          "Lines": {
+            "9": 12
+          },
+          "Branches": []
+        },
+        "System.Void Application.Exceptions.EmployeeIdFormatException::.cctor()": {
+          "Lines": {
+            "8": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Exceptions\\NotFoundException.cs": {
+      "Application.Exceptions.NotFoundException": {
+        "System.Void Application.Exceptions.NotFoundException::.ctor(System.String)": {
+          "Lines": {
+            "5": 15,
+            "6": 15,
+            "8": 15
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Response\\CompanyResponse.cs": {
+      "Application.DTO.Response.CompanyResponse": {
+        "System.Int32 Application.DTO.Response.CompanyResponse::get_CompanyId()": {
+          "Lines": {
+            "12": 3
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.CompanyResponse::get_Cuit()": {
+          "Lines": {
+            "13": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.CompanyResponse::get_Name()": {
+          "Lines": {
+            "14": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.CompanyResponse::get_Adress()": {
+          "Lines": {
+            "15": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.CompanyResponse::get_Phone()": {
+          "Lines": {
+            "16": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Response\\DepartmentResponse.cs": {
+      "Application.DTO.Response.DepartmentResponse": {
+        "System.Int32 Application.DTO.Response.DepartmentResponse::get_DepartmentId()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.DepartmentResponse::get_Name()": {
+          "Lines": {
+            "6": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Response\\EmployeeResponse.cs": {
+      "Application.DTO.Response.EmployeeResponse": {
+        "System.Int32 Application.DTO.Response.EmployeeResponse::get_Id()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.EmployeeResponse::get_FirsName()": {
+          "Lines": {
+            "6": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.EmployeeResponse::get_LastName()": {
+          "Lines": {
+            "7": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Response.EmployeeResponse::get_PositionId()": {
+          "Lines": {
+            "8": 4
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> Application.DTO.Response.EmployeeResponse::get_SuperiorId()": {
+          "Lines": {
+            "9": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Response.EmployeeResponse::get_DepartmentId()": {
+          "Lines": {
+            "10": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Response.EmployeeResponse::get_CompanyId()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean Application.DTO.Response.EmployeeResponse::get_IsApprover()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Response\\MessageResponse.cs": {
+      "Application.DTO.Response.MessageResponse": {
+        "System.String Application.DTO.Response.MessageResponse::get_Message()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IDictionary`2<System.String,System.String[]> Application.DTO.Response.MessageResponse::get_Errors()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Response\\PositionResponse.cs": {
+      "Application.DTO.Response.PositionResponse": {
+        "System.Int32 Application.DTO.Response.PositionResponse::get_PositionId()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Response.PositionResponse::get_Description()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Response.PositionResponse::get_Hierarchy()": {
+          "Lines": {
+            "13": 4
+          },
+          "Branches": []
+        },
+        "System.Decimal Application.DTO.Response.PositionResponse::get_MaxAmount()": {
+          "Lines": {
+            "14": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Request\\CompanyRequest.cs": {
+      "Application.DTO.Request.CompanyRequest": {
+        "System.String Application.DTO.Request.CompanyRequest::get_Cuit()": {
+          "Lines": {
+            "5": 20
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Request.CompanyRequest::get_Name()": {
+          "Lines": {
+            "6": 20
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Request.CompanyRequest::get_Adress()": {
+          "Lines": {
+            "7": 20
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Request.CompanyRequest::get_Phone()": {
+          "Lines": {
+            "8": 20
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Request\\DepartmentRequest.cs": {
+      "Application.DTO.Request.DepartmentRequest": {
+        "System.String Application.DTO.Request.DepartmentRequest::get_Name()": {
+          "Lines": {
+            "5": 9
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.DepartmentRequest::get_IdCompany()": {
+          "Lines": {
+            "6": 9
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Request\\EmployeeRequest.cs": {
+      "Application.DTO.Request.EmployeeRequest": {
+        "System.Int32 Application.DTO.Request.EmployeeRequest::get_Id()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Request.EmployeeRequest::get_FirsName()": {
+          "Lines": {
+            "6": 5
+          },
+          "Branches": []
+        },
+        "System.String Application.DTO.Request.EmployeeRequest::get_LastName()": {
+          "Lines": {
+            "7": 5
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.EmployeeRequest::get_DepartmentId()": {
+          "Lines": {
+            "8": 5
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.EmployeeRequest::get_PositionId()": {
+          "Lines": {
+            "9": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> Application.DTO.Request.EmployeeRequest::get_SuperiorId()": {
+          "Lines": {
+            "10": 5
+          },
+          "Branches": []
+        },
+        "System.Boolean Application.DTO.Request.EmployeeRequest::get_IsApprover()": {
+          "Lines": {
+            "11": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Request\\PositionRequest.cs": {
+      "Application.DTO.Request.PositionRequest": {
+        "System.String Application.DTO.Request.PositionRequest::get_Description()": {
+          "Lines": {
+            "5": 14
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.PositionRequest::get_Hierarchy()": {
+          "Lines": {
+            "6": 19
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.PositionRequest::get_MaxAmount()": {
+          "Lines": {
+            "7": 14
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.DTO.Request.PositionRequest::get_CompanyId()": {
+          "Lines": {
+            "8": 14
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Creator\\CompanyCreator.cs": {
+      "Application.DTO.Creator.CompanyCreator": {
+        "Application.DTO.Response.CompanyResponse Application.DTO.Creator.CompanyCreator::Create(Domain.Entities.Company)": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 3,
+            "21": 3,
+            "22": 3,
+            "23": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Creator\\DepartmentCreator.cs": {
+      "Application.DTO.Creator.DepartmentCreator": {
+        "Application.DTO.Response.DepartmentResponse Application.DTO.Creator.DepartmentCreator::Create(Domain.Entities.Department)": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Creator\\EmployeeCreator.cs": {
+      "Application.DTO.Creator.EmployeeCreator": {
+        "Application.DTO.Response.EmployeeResponse Application.DTO.Creator.EmployeeCreator::Create(Domain.Entities.Employee)": {
+          "Lines": {
+            "9": 2,
+            "10": 2,
+            "11": 2,
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\DTO\\Creator\\PositionCreator.cs": {
+      "Application.DTO.Creator.PositionCreator": {
+        "Application.DTO.Response.PositionResponse Application.DTO.Creator.PositionCreator::Create(Domain.Entities.Position)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Domain.dll": {
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Domain\\Entities\\Company.cs": {
+      "Domain.Entities.Company": {
+        "System.Int32 Domain.Entities.Company::get_CompanyId()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Company::get_Cuit()": {
+          "Lines": {
+            "6": 9
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Company::get_Name()": {
+          "Lines": {
+            "7": 9
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Company::get_Adress()": {
+          "Lines": {
+            "8": 9
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Company::get_Phone()": {
+          "Lines": {
+            "9": 9
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Domain.Entities.Position> Domain.Entities.Company::get_Positions()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Domain.Entities.Department> Domain.Entities.Company::get_Departments()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Domain\\Entities\\Department.cs": {
+      "Domain.Entities.Department": {
+        "System.Int32 Domain.Entities.Department::get_Id()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Department::get_Name()": {
+          "Lines": {
+            "6": 13
+          },
+          "Branches": []
+        },
+        "System.Int32 Domain.Entities.Department::get_IdCompany()": {
+          "Lines": {
+            "7": 11
+          },
+          "Branches": []
+        },
+        "Domain.Entities.Company Domain.Entities.Department::get_Company()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Domain.Entities.Employee> Domain.Entities.Department::get_Employees()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Domain\\Entities\\Employee.cs": {
+      "Domain.Entities.Employee": {
+        "System.Int32 Domain.Entities.Employee::get_Id()": {
+          "Lines": {
+            "5": 21
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Employee::get_FirstName()": {
+          "Lines": {
+            "6": 21
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Employee::get_LastName()": {
+          "Lines": {
+            "7": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> Domain.Entities.Employee::get_SuperiorId()": {
+          "Lines": {
+            "8": 24
+          },
+          "Branches": []
+        },
+        "Domain.Entities.Employee Domain.Entities.Employee::get_Superior()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Domain.Entities.Employee::get_HistoryFlag()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Domain.Entities.Employee::get_ApprovalsFlag()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Domain.Entities.Employee::get_IsApprover()": {
+          "Lines": {
+            "13": 22
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Domain.Entities.Employee> Domain.Entities.Employee::get_Subordinates()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Domain.Entities.Employee::get_DepartamentId()": {
+          "Lines": {
+            "17": 21
+          },
+          "Branches": []
+        },
+        "Domain.Entities.Department Domain.Entities.Employee::get_Departament()": {
+          "Lines": {
+            "18": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 Domain.Entities.Employee::get_PositionId()": {
+          "Lines": {
+            "19": 21
+          },
+          "Branches": []
+        },
+        "Domain.Entities.Position Domain.Entities.Employee::get_Position()": {
+          "Lines": {
+            "20": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Domain\\Entities\\Position.cs": {
+      "Domain.Entities.Position": {
+        "System.Int32 Domain.Entities.Position::get_Id()": {
+          "Lines": {
+            "6": 10
+          },
+          "Branches": []
+        },
+        "System.String Domain.Entities.Position::get_Name()": {
+          "Lines": {
+            "7": 20
+          },
+          "Branches": []
+        },
+        "System.Int32 Domain.Entities.Position::get_Hierarchy()": {
+          "Lines": {
+            "8": 23
+          },
+          "Branches": []
+        },
+        "System.Decimal Domain.Entities.Position::get_MaxAmount()": {
+          "Lines": {
+            "9": 23
+          },
+          "Branches": []
+        },
+        "System.Int32 Domain.Entities.Position::get_IdCompany()": {
+          "Lines": {
+            "10": 16
+          },
+          "Branches": []
+        },
+        "Domain.Entities.Company Domain.Entities.Position::get_Company()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Domain.Entities.Employee> Domain.Entities.Position::get_Employees()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Infrastructure.dll": {
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\InjectionDependency.cs": {
+      "Infrastructure.InjectionDependency": {
+        "System.Void Infrastructure.InjectionDependency::AddInfraestructureLayer(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Querys\\CompanyQuery.cs": {
+      "Infrastructure.Repositories.Querys.CompanyQuery": {
+        "System.Void Infrastructure.Repositories.Querys.CompanyQuery::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.CompanyQuery/<ExistCompany>d__2": {
+        "System.Void Infrastructure.Repositories.Querys.CompanyQuery/<ExistCompany>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.CompanyQuery/<GetCompany>d__3": {
+        "System.Void Infrastructure.Repositories.Querys.CompanyQuery/<GetCompany>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.CompanyQuery/<GetCompanys>d__4": {
+        "System.Void Infrastructure.Repositories.Querys.CompanyQuery/<GetCompanys>d__4::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Querys\\DepartmentQuery.cs": {
+      "Infrastructure.Repositories.Querys.DepartmentQuery": {
+        "System.Void Infrastructure.Repositories.Querys.DepartmentQuery::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.DepartmentQuery/<ExistDepartment>d__2": {
+        "System.Void Infrastructure.Repositories.Querys.DepartmentQuery/<ExistDepartment>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.DepartmentQuery/<GetDepartment>d__3": {
+        "System.Void Infrastructure.Repositories.Querys.DepartmentQuery/<GetDepartment>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.DepartmentQuery/<GetDepartmentsByCompany>d__4": {
+        "System.Void Infrastructure.Repositories.Querys.DepartmentQuery/<GetDepartmentsByCompany>d__4::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Querys\\EmployeeQuery.cs": {
+      "Infrastructure.Repositories.Querys.EmployeeQuery": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployee>d__4": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployee>d__4::MoveNext()": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeeDepartment>d__2": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeeDepartment>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeeShallow>d__3": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeeShallow>d__3::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployees>d__5": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployees>d__5::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeesByDepartment>d__6": {
+        "System.Void Infrastructure.Repositories.Querys.EmployeeQuery/<GetEmployeesByDepartment>d__6::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Querys\\PositionQuery.Cs": {
+      "Infrastructure.Repositories.Querys.PositionQuery": {
+        "System.Void Infrastructure.Repositories.Querys.PositionQuery::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.PositionQuery/<ExistPosition>d__2": {
+        "System.Void Infrastructure.Repositories.Querys.PositionQuery/<ExistPosition>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.PositionQuery/<GetPosition>d__3": {
+        "System.Void Infrastructure.Repositories.Querys.PositionQuery/<GetPosition>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Querys.PositionQuery/<GetPositionsByCompany>d__4": {
+        "System.Void Infrastructure.Repositories.Querys.PositionQuery/<GetPositionsByCompany>d__4::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Commands\\CompanyCommand.cs": {
+      "Infrastructure.Repositories.Commands.CompanyCommand": {
+        "System.Void Infrastructure.Repositories.Commands.CompanyCommand::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.CompanyCommand/<InsertCompany>d__2": {
+        "System.Void Infrastructure.Repositories.Commands.CompanyCommand/<InsertCompany>d__2::MoveNext()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Commands\\DepartmentCommand.cs": {
+      "Infrastructure.Repositories.Commands.DepartmentCommand": {
+        "System.Void Infrastructure.Repositories.Commands.DepartmentCommand::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.DepartmentCommand/<DeleteDepartment>d__2": {
+        "System.Void Infrastructure.Repositories.Commands.DepartmentCommand/<DeleteDepartment>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.DepartmentCommand/<InsertDepartment>d__3": {
+        "System.Void Infrastructure.Repositories.Commands.DepartmentCommand/<InsertDepartment>d__3::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Commands\\EmployeeCommand.cs": {
+      "Infrastructure.Repositories.Commands.EmployeeCommand": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<AcceptApprovalsFlagFlag>d__2": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<AcceptApprovalsFlagFlag>d__2::MoveNext()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<AcceptHistoryFlag>d__3": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<AcceptHistoryFlag>d__3::MoveNext()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<DeleteEmployee>d__6": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<DeleteEmployee>d__6::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<DissmisApprovalsFlag>d__4": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<DissmisApprovalsFlag>d__4::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<DissmisHistoryFlag>d__5": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<DissmisHistoryFlag>d__5::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.EmployeeCommand/<InsertEmployee>d__7": {
+        "System.Void Infrastructure.Repositories.Commands.EmployeeCommand/<InsertEmployee>d__7::MoveNext()": {
+          "Lines": {
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Repositories\\Commands\\PositionCommand.cs": {
+      "Infrastructure.Repositories.Commands.PositionCommand": {
+        "System.Void Infrastructure.Repositories.Commands.PositionCommand::.ctor(Infrastructure.Persistence.ReportsDbContext)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.PositionCommand/<DeletePosition>d__2": {
+        "System.Void Infrastructure.Repositories.Commands.PositionCommand/<DeletePosition>d__2::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "Infrastructure.Repositories.Commands.PositionCommand/<InsertPosition>d__3": {
+        "System.Void Infrastructure.Repositories.Commands.PositionCommand/<InsertPosition>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\ReportsDbContext.cs": {
+      "Infrastructure.Persistence.ReportsDbContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<Domain.Entities.Company> Infrastructure.Persistence.ReportsDbContext::get_Companys()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Domain.Entities.Department> Infrastructure.Persistence.ReportsDbContext::get_Departments()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Domain.Entities.Employee> Infrastructure.Persistence.ReportsDbContext::get_Employees()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Domain.Entities.Position> Infrastructure.Persistence.ReportsDbContext::get_Positions()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void Infrastructure.Persistence.ReportsDbContext::OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void Infrastructure.Persistence.ReportsDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Inserts\\CompanyInserts.cs": {
+      "Infrastructure.Persistence.Inserts.CompanyInserts": {
+        "System.Void Infrastructure.Persistence.Inserts.CompanyInserts::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Company>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Inserts\\DepartmentsInserts.cs": {
+      "Infrastructure.Persistence.Inserts.DepartmentInserts": {
+        "System.Void Infrastructure.Persistence.Inserts.DepartmentInserts::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Department>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Inserts\\EmployeeInserts.cs": {
+      "Infrastructure.Persistence.Inserts.EmployeeInserts": {
+        "System.Void Infrastructure.Persistence.Inserts.EmployeeInserts::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Employee>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Inserts\\PositionInserts.cs": {
+      "Infrastructure.Persistence.Inserts.PositionInserts": {
+        "System.Void Infrastructure.Persistence.Inserts.PositionInserts::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Position>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs": {
+      "Infrastructure.Persistence.Configurations.CompanyConfiguration": {
+        "System.Void Infrastructure.Persistence.Configurations.CompanyConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Company>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Configurations\\DepartmentConfiguration.cs": {
+      "Infrastructure.Persistence.Configurations.DepartmentConfiguration": {
+        "System.Void Infrastructure.Persistence.Configurations.DepartmentConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Department>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Configurations\\EmployeeConfiguration.cs": {
+      "Infrastructure.Persistence.Configurations.EmployeeConfiguration": {
+        "System.Void Infrastructure.Persistence.Configurations.EmployeeConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Employee>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Persistence\\Configurations\\PositionConfiguration.cs": {
+      "Infrastructure.Persistence.Configurations.PositionConfiguration": {
+        "System.Void Infrastructure.Persistence.Configurations.PositionConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Domain.Entities.Position>)": {
+          "Lines": {
+            "10": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Migrations\\20231127172329_Init.cs": {
+      "Infrastructure.Migrations.Init": {
+        "System.Void Infrastructure.Migrations.Init::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0
+          },
+          "Branches": []
+        },
+        "System.Void Infrastructure.Migrations.Init::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "183": 0,
+            "184": 0,
+            "186": 0,
+            "187": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Migrations\\20231127172329_Init.Designer.cs": {
+      "Infrastructure.Migrations.Init": {
+        "System.Void Infrastructure.Migrations.Init::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "341": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Migrations\\ReportsDbContextModelSnapshot.cs": {
+      "Infrastructure.Migrations.ReportsDbContextModelSnapshot": {
+        "System.Void Infrastructure.Migrations.ReportsDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "338": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Authentication\\JwtHelper.cs": {
+      "Infrastructure.Authentication.JwtHelper": {
+        "System.String Infrastructure.Authentication.JwtHelper::GetClaimValue(System.String,System.String)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 92,
+              "EndOffset": 108,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 113,
+              "EndOffset": 115,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 113,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Presentation.API.dll": {
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Program.cs": {
+      "Presentation.API.Program": {
+        "System.Void Presentation.API.Program::Main(System.String[])": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "17": 0,
+            "18": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0
+          },
+          "Branches": [
+            {
+              "Line": 89,
+              "Offset": 247,
+              "EndOffset": 249,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 247,
+              "EndOffset": 267,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Handlers\\ExceptionFilter.cs": {
+      "Presentation.API.Handlers.ExceptionFilter": {
+        "System.Void Presentation.API.Handlers.ExceptionFilter::OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 29,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 70,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 91,
+              "EndOffset": 93,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 91,
+              "EndOffset": 144,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Controllers\\CompanyController.cs": {
+      "Presentation.API.Controllers.CompanyController": {
+        "System.Void Presentation.API.Controllers.CompanyController::.ctor(Application.Interfaces.IServices.ICompanyService)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.CompanyController/<CreateCompany>d__4": {
+        "System.Void Presentation.API.Controllers.CompanyController/<CreateCompany>d__4::MoveNext()": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.CompanyController/<GetCompany>d__2": {
+        "System.Void Presentation.API.Controllers.CompanyController/<GetCompany>d__2::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.CompanyController/<GetCompanys>d__3": {
+        "System.Void Presentation.API.Controllers.CompanyController/<GetCompanys>d__3::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Controllers\\DepartmentController.cs": {
+      "Presentation.API.Controllers.DepartmentController": {
+        "System.Void Presentation.API.Controllers.DepartmentController::.ctor(Application.Interfaces.IServices.IDepartmentService)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.DepartmentController/<CreateDepartment>d__4": {
+        "System.Void Presentation.API.Controllers.DepartmentController/<CreateDepartment>d__4::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.DepartmentController/<DeleteDepartment>d__5": {
+        "System.Void Presentation.API.Controllers.DepartmentController/<DeleteDepartment>d__5::MoveNext()": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.DepartmentController/<GetCompany>d__2": {
+        "System.Void Presentation.API.Controllers.DepartmentController/<GetCompany>d__2::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.DepartmentController/<GetDepartments>d__3": {
+        "System.Void Presentation.API.Controllers.DepartmentController/<GetDepartments>d__3::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Controllers\\EmployeeController.cs": {
+      "Presentation.API.Controllers.EmployeeController": {
+        "System.Void Presentation.API.Controllers.EmployeeController::.ctor(Application.Interfaces.IServices.IEmployeeService)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<AcceptApprovalsFlagFlag>d__12": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<AcceptApprovalsFlagFlag>d__12::MoveNext()": {
+          "Lines": {
+            "141": 0,
+            "142": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<AcceptHistoryFlag>d__10": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<AcceptHistoryFlag>d__10::MoveNext()": {
+          "Lines": {
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<CreateEmployee>d__6": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<CreateEmployee>d__6::MoveNext()": {
+          "Lines": {
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<DeletePosition>d__7": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<DeletePosition>d__7::MoveNext()": {
+          "Lines": {
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<DissmisApprovalsFlag>d__13": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<DissmisApprovalsFlag>d__13::MoveNext()": {
+          "Lines": {
+            "152": 0,
+            "153": 0,
+            "155": 0,
+            "157": 0,
+            "158": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<DissmisHistoryFlag>d__11": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<DissmisHistoryFlag>d__11::MoveNext()": {
+          "Lines": {
+            "130": 0,
+            "131": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetApprover>d__8": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetApprover>d__8::MoveNext()": {
+          "Lines": {
+            "94": 0,
+            "95": 0,
+            "97": 0,
+            "99": 0,
+            "100": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetCompany>d__2": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetCompany>d__2::MoveNext()": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetDepartmentByEmployee>d__5": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetDepartmentByEmployee>d__5::MoveNext()": {
+          "Lines": {
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetEmployee>d__3": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetEmployee>d__3::MoveNext()": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetNextApprover>d__9": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetNextApprover>d__9::MoveNext()": {
+          "Lines": {
+            "106": 0,
+            "107": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.EmployeeController/<GetSuperiors>d__4": {
+        "System.Void Presentation.API.Controllers.EmployeeController/<GetSuperiors>d__4::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\GitHub\\ASP.NET\\rendicion-gastos\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Controllers\\PositionController.cs": {
+      "Presentation.API.Controllers.PositionController": {
+        "System.Void Presentation.API.Controllers.PositionController::.ctor(Application.Interfaces.IServices.IPositionService)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.PositionController/<CreatePosition>d__4": {
+        "System.Void Presentation.API.Controllers.PositionController/<CreatePosition>d__4::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.PositionController/<DeletePosition>d__5": {
+        "System.Void Presentation.API.Controllers.PositionController/<DeletePosition>d__5::MoveNext()": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.PositionController/<GetPosition>d__2": {
+        "System.Void Presentation.API.Controllers.PositionController/<GetPosition>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      },
+      "Presentation.API.Controllers.PositionController/<GetPosition>d__3": {
+        "System.Void Presentation.API.Controllers.PositionController/<GetPosition>d__3::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

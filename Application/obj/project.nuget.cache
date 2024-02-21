@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxskPbC3YU4PZMCezNtGijDAtUDN0BwXPhqAN0H1onakSBjpscH+JZcdM8VKT5CKGYT63e35/UrGeQWDXpcrXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camer\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\camer\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "C:\\Users\\camer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

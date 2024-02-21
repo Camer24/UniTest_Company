@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj"
+              },
+              "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Presentation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Presentation.API.csproj",
+        "projectName": "Presentation.API",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Presentation.API.csproj",
+        "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Presentation.API.csproj": {
+                "projectPath": "C:\\Users\\camer\\OneDrive\\Escritorio\\CompanyOrganizationEmi\\Sistema-de-rendicion-de-gastos\\Presentation.API\\Presentation.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
